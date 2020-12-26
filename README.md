@@ -1,7 +1,7 @@
 # transfer_JioSaavn_to_Spotify
 This script can be used to transfer JioSaavn playlist to Spotify.
 
-Spotify is 'the' best music streaming app. When I made the switch from Saavn to Spotify, I also had to transfer my playlists and hence this I wrote this script.I couldn't find a service that doesn't take my data and does the job for me.
+Spotify is 'the best' music streaming app. When I made the switch from Saavn to Spotify, I also had to transfer my playlists and hence I wrote this script. I couldn't find a service that won't take my data and does the job for me.
 
 Prerequisites:
 1. Python modules-
